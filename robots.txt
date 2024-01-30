@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Allow: /tags/
+Allow: /categories/
+Allow: /about/
+
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /lib/
+Disallow: /pdf/
+Disallow: /404/
+
+Sitemap: https://www.transbooks.top/sitemap.xml
